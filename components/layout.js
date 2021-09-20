@@ -29,7 +29,7 @@ export default ({ children, home }) => {
 					<>
 						<Image
 							priority
-							src="/images/profile.jpg"
+							src="/images/baseball_shinpan_out.png"
 							className={utilStyles.borderCircle}
 							height={144}
 							width={144}
